@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "descricao": "Serviços Domésticos",
+    "imagem": "https://github.com/jailson-developer/fake-data/blob/main/home_service.jpg"
+  },
+  {
+    "id": 2,
+    "descricao": "Atendimento Médico",
+    "imagem": "https://github.com/jailson-developer/fake-data/blob/main/assistencia_medica.jpg"
+  },
+  {
+    "id": 3,
+    "descricao": "Assistência Técnica",
+    "imagem": "https://github.com/jailson-developer/fake-data/blob/main/assistencia_tecnica.jpg"
+  }
+]
